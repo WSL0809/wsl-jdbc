@@ -60,3 +60,4 @@ public class InsertCommand implements Command {
 
     }
 }
+
